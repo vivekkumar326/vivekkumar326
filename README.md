@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**vivekkumar326/vivekkumar326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
+<h1 align="center">Hi there, I'm Vivek Kumar 👋</h1>
 
 <h3 align="center">
 MCA Student • Software Developer • AI/ML Enthusiast
@@ -36,40 +20,49 @@ MCA Student • Software Developer • AI/ML Enthusiast
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 MCA student focused on **Software Development, AI/ML and Data Analytics**
-- 💻 Practicing **Data Structures & Algorithms in C++**
-- 🤖 Building machine learning applications using **Python, Scikit-learn, XGBoost and Streamlit**
-- 🌐 Developing web applications with **React.js, Node.js, Express.js and MongoDB**
-- ☁️ Learning **Docker, Kubernetes, Terraform and Google Cloud**
-- 📍 Based in Lucknow, Uttar Pradesh, India
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekkumar326&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vivekkumar326?label=Followers&style=social" alt="Followers" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### Programming Languages
+```text
+🎓  MCA student focused on Software Development, AI/ML and Data Analytics
+💻  Practicing Data Structures & Algorithms in C++
+🤖  Building machine learning applications using Python, Scikit-learn, XGBoost & Streamlit
+🌐  Developing web applications with React.js, Node.js, Express.js and MongoDB
+☁️  Learning Docker, Kubernetes, Terraform and Google Cloud
+🌱  Currently exploring System Design
+💬  Ask me about: Machine Learning, DSA, Web Development
+📍  Based in Lucknow, Uttar Pradesh, India
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql" />
 </p>
 
-### Web Development
+**Web Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind" />
 </p>
 
-### Database, Cloud & Tools
+**Database, Cloud & Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,kubernetes,gcp,terraform,vscode" />
 </p>
 
-### Machine Learning
+**Machine Learning & Data Science**
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -77,71 +70,103 @@ MCA Student • Software Developer • AI/ML Enthusiast
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🎓 AI Student Success Prediction System
-
-An AI-powered application that predicts whether a student is likely to **Graduate, Enroll, or Drop Out**.
-
-- Built using **Python, XGBoost and Streamlit**
-- Uses student academic and financial data for prediction
-- Integrated AI-generated explanations using Gemini API
-- Multi-class classification model
-
-🔗 Repository: [AI Student Success Prediction](https://github.com/vivekkumar326/ai-student-success-prediction)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 AI Student Success Prediction System</h4>
+      <p>
+        Predicts whether a student is likely to <b>Graduate, Enroll, or Drop Out</b>,
+        using academic and financial data with a multi-class XGBoost model and
+        AI-generated explanations via the Gemini API.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <a href="https://github.com/vivekkumar326/ai-student-success-prediction">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Telecom Customer Churn Analysis</h4>
+      <p>
+        Exploratory data analysis project identifying the key patterns behind customer
+        churn — tenure, charges, services, and behavior — with visual insights into churn trends.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+      </p>
+      <a href="https://github.com/vivekkumar326/Telecom-Company-Customer-Churn-Analysis-EDA">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 DSA & LeetCode Solutions</h4>
+      <p>
+        A structured collection of Data Structures and Algorithms solutions in C++ —
+        covering arrays, strings, linked lists, trees, graphs, recursion, backtracking,
+        and dynamic programming, with time/space complexity notes.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      </p>
+      <a href="https://github.com/vivekkumar326/Leetcode_vivek">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ More Coming Soon</h4>
+      <p>
+        Currently building new projects around System Design and Cloud-native applications.
+        Check back soon, or explore all repositories on my profile.
+      </p>
+      <a href="https://github.com/vivekkumar326?tab=repositories">🔗 View All Repositories</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Telecom Customer Churn Analysis
-
-Data analysis project focused on identifying patterns that influence customer churn.
-
-- Performed exploratory data analysis using Python
-- Used Pandas, NumPy, Matplotlib and Seaborn
-- Analyzed customer behavior, tenure, charges and services
-- Created visualizations to identify churn trends
-
-🔗 Repository: [Telecom Customer Churn Analysis](https://github.com/vivekkumar326/Telecom-Company-Customer-Churn-Analysis-EDA)
-
----
-
-### 🧠 DSA & LeetCode Solutions
-
-A structured collection of Data Structures and Algorithms solutions written in C++.
-
-- Arrays, Strings, Linked Lists, Trees and Graphs
-- Recursion, Backtracking and Dynamic Programming
-- LeetCode and GeeksforGeeks problems
-- Optimized approaches with time and space complexity
-
-🔗 Repository: [LeetCode C++ Solutions](https://github.com/vivekkumar326/Leetcode_vivek)
-
----
-
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekkumar326&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Vivek's GitHub Stats"
-    height="170"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekkumar326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vivek's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekkumar326&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekkumar326&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="170"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumar326&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekkumar326&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
-```text
-DSA in C++ • React.js • Node.js • Machine Learning • Docker • Kubernetes • Google Cloud • System Design
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA%20in%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — feel free to connect, collaborate, or just say hi! 🚀</i>
+</p>
