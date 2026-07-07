@@ -126,15 +126,17 @@ A structured collection of Data Structures and Algorithms solutions written in C
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vivekkumar326&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekkumar326&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Vivek's GitHub Stats"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar326&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekkumar326&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
+    height="170"
   />
 </p>
 ---
