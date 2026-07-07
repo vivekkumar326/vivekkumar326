@@ -122,24 +122,19 @@ A structured collection of Data Structures and Algorithms solutions written in C
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vivekkumar326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=vivekkumar326&theme=tokyonight&hide_border=true" 
-    height="170"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vivekkumar326&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Vivek's GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar326&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar326&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Most Used Languages"
   />
 </p>
 ---
