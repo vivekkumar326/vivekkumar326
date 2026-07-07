@@ -31,7 +31,7 @@ MCA Student • Software Developer • AI/ML Enthusiast
   <a href="https://github.com/vivekkumar326">
     <img src="https://img.shields.io/badge/GitHub-vivekkumar326-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mrviveksingh066@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -125,14 +125,23 @@ A structured collection of Data Structures and Algorithms solutions written in C
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekkumar326&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumar326&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vivekkumar326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="170"
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=vivekkumar326&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar326&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar326&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
-
 ---
 
 ## 🌱 Currently Learning
